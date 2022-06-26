@@ -13,3 +13,8 @@ Now we are going to install a couple of things
 
 Now open spyder : type spyter and hit enter in command prompt
 To open streamlit open the anaconda prompt then go to the directory where you are working. After that run the command - streamlit run YT_Ddashboard_St.py
+
+
+## Deploy on Streamlit
+go to streamlit account. Connect your github with streamlit. click on new. Then choose the repository you want to deploy. Select the python file.
+Click on advance settings. Choose python version then save. After that click on deploy.
