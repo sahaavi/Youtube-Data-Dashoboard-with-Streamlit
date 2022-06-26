@@ -14,6 +14,12 @@ Now we are going to install a couple of things
 Now open spyder : type spyter and hit enter in command prompt
 To open streamlit open the anaconda prompt then go to the directory where you are working. After that run the command - streamlit run YT_Ddashboard_St.py
 
+### Requirements
+go to the cmd and enter into YT_Ddashboard_St environment
+run the command pip freeze
+after that run the command pip freeze > requirements.txt
+
+then upload all the files on github
 
 ## Deploy on Streamlit
 go to streamlit account. Connect your github with streamlit. click on new. Then choose the repository you want to deploy. Select the python file.
